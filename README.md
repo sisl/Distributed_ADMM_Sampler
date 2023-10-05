@@ -3,6 +3,7 @@
 This repository serves as the code base for the paper "Distributed Markov Chain Monte Carlo Sampling based on the Alternating Direction Method of Multipliers".
 
 The repository contains the following files.
+
 ---
 `bayesian_lin_reg.py`
 
