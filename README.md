@@ -40,7 +40,4 @@ In addition, we implement our proposed D-ADMMS sampling scheme for the same set 
 This directory contains the necessary code for the ablation study of D-ADMMS in the context of Bayesian linear
 regression.
 
----
-`Results/`
 
-This directory contains the gathered results for the two sets of experiments described above.
